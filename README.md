@@ -3,8 +3,8 @@
 A Spring Boot REST API application for managing doctors, patients, and their appointments.
 This backend system provides secure and scalable endpoints to perform CRUD operations and manage hospital workflows efficiently.
 
-*⭐ Features
-*
+*⭐ Features*
+
 👨‍⚕ Doctor APIs
 
 POST /api/doctors → Add a new doctor
